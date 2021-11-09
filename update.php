@@ -20,8 +20,7 @@ if (isset($_GET["user_id"])){
     <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
 </head>
 <body>
-<h1 class="text-info text-center">Firefox Poultry Farm.</h1>
-<p>farm</p>
+<h1 class="text-info text-center">Firefox Poultry Farm</h1>
 <div class="row">
     <div class="col-3"></div>
     <div class="col-6">
